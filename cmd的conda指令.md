@@ -36,3 +36,7 @@ conda remove -n （虚拟环境的名字） -all
 ```
 conda create -n BBB --clone AAA
 ```
+3.查看当前激活的虚拟环境所安装的包：
+```
+conda list
+```
